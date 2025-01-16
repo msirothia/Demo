@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-// Added a sample Commit for Flora 
+// Added a sample Commit for Flora new check
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
